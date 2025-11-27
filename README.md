@@ -250,12 +250,19 @@ Update network configurations and deploy to mainnet with proper security audits.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Live Demo
+
+🚀 **Production Deployment**: [https://esotericvote-frontend-m4z3lopg6-galaxys-projects-639e1fd2.vercel.app](https://esotericvote-frontend-m4z3lopg6-galaxys-projects-639e1fd2.vercel.app)
+
+**Note**: The live demo is configured for Sepolia testnet. Make sure your MetaMask wallet is connected to Sepolia network.
+
 ## Acknowledgments
 
 - [Zama](https://www.zama.ai/) for FHEVM technology
 - [Hardhat](https://hardhat.org/) for development framework
 - [Next.js](https://nextjs.org/) for React framework
 - [Tailwind CSS](https://tailwindcss.com/) for styling
+- [Vercel](https://vercel.com/) for hosting and deployment
 
 ## Contact
 
@@ -264,3 +271,4 @@ For questions or support, please open an issue on GitHub.
 ---
 
 **Current Deployed Contract (Sepolia)**: `0x1b54F0F8A3875918396f918b96B3B706080Ab784`
+
