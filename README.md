@@ -252,9 +252,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Live Demo
 
-🚀 **Production Deployment**: [https://esotericvote-frontend-m4z3lopg6-galaxys-projects-639e1fd2.vercel.app](https://esotericvote-frontend-m4z3lopg6-galaxys-projects-639e1fd2.vercel.app)
+🚀 **Production Deployment**: [https://esotericvote-frontend-fg1xaasfj-galaxys-projects-639e1fd2.vercel.app](https://esotericvote-frontend-fg1xaasfj-galaxys-projects-639e1fd2.vercel.app)
 
 **Note**: The live demo is configured for Sepolia testnet. Make sure your MetaMask wallet is connected to Sepolia network.
+
+⚠️ **Important**: Vercel has enabled deployment protection by default. If you encounter a 401 authentication error, please disable deployment protection in the Vercel dashboard:
+1. Go to [Vercel Dashboard](https://vercel.com/dashboard)
+2. Select your project: `esotericvote-frontend`
+3. Go to Settings → Security
+4. Disable "Password Protection" or "Deployment Protection"
 
 ## Acknowledgments
 
